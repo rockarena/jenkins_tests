@@ -1,1 +1,3 @@
-<?php print_r($argv);?>
+<?php print_r($argv);
+//asdasd
+?>
